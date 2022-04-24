@@ -1,6 +1,7 @@
 ``` 👋 Hi, I’m @MelisaIwasaki ```
 
-![main_onepiece](https://user-images.githubusercontent.com/92184167/164949570-7e6a6647-a832-4077-ad45-9e6b0fcbca3b.jpg)　
+![EURpewaWkAAz5Qc](https://user-images.githubusercontent.com/92184167/164950327-a3a3c366-3dd2-42bf-b514-22267b4c4c57.jpg)
+
 
 
 <!---
