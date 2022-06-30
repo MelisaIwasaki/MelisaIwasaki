@@ -4,7 +4,7 @@
 
 ````" Haga las cosas difíciles mientras sean fáciles y haga las cosas grandes mientras sean pequeñas.Un viaje de mil millas debe comenzar con un solo paso"````  Lao Tse
 
-
+![Snake animation](https://github.com/MelisaIwasaki/MelisaIwasaki/blob/output/github-contribution-grid-snake.svg)
 
 
 
